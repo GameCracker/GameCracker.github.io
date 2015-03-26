@@ -1,9 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to Pepper!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Pepper is a wearable augmented reality computer with brain-computer intereface sensors. 
+
+Augmented reality is building using CLD and reflective display, as well as object tracking and recognition. 
+
+The brain-computer interface is done using dry EEG sensors. All analog singal is processed in chip or in cloud using signal processing and machine learning trainning and predicting algorithms. 
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
